@@ -4,7 +4,7 @@ export default function Footer () {
     return (
         <section className="mt-12 border-t-2 border-[#d9d9d9] pt-6">
             
-            <div className="flex  justify-evenly mt-8">
+            <div className="md:flex  justify-evenly mt-8">
             <div>
             <h2 className="text-2xl font-bold">Funiro.</h2>
             <p className="text-[#9f9f9f] mt-14">400 University Drive Suite 200 Coral Gables,</p>
