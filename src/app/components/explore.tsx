@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { FaCircle } from "react-icons/fa";
 
 export default function Explore () {
     return (
@@ -18,6 +19,7 @@ export default function Explore () {
 
                 <div className="ml-5">
                 <Image src="/explore2.png" alt="Living Room" width={400} height={250}/>
+                <p className="flex mt-12 gap-4 text-[#d8d8d8]"><FaCircle className="text-[#b88e2f]    outline outline-1 outline-[#b88e2f] outline-offset-4  rounded-full"/> <FaCircle /> <FaCircle /> <FaCircle /> </p>
 
                 </div>
             </div>
