@@ -37,7 +37,7 @@ export default function Navbar() {
       {/* Navigation Links */}
       <ul
         className={`absolute top-16 left-0 w-full bg-white shadow-md md:shadow-none md:bg-transparent md:relative md:flex md:gap-16 font-semibold text-xl items-center md:top-1 md:ml-72 ${
-          isMenuOpen ? "block" : "hidden md:flex"
+          isMenuOpen ? "block z-50" : "hidden md:flex"
         }`}
       >
         <li>

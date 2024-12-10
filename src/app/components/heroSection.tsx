@@ -21,7 +21,7 @@ export default function HeroSection() {
           left-1/2 
           transform -translate-x-1/2 
           md:top-[120px] 
-          md:left-[680px] 
+          md:left-[580px] 
           md:transform-none 
           rounded-xl 
           px-6 
