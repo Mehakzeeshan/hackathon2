@@ -17,7 +17,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#e97171] text-white px-2 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">-30%</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-50px] ml-4">Syltherine</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Syltherine</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Stylish cafe chair</p>
                 <div className="flex gap-2 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 2.500.000</h3>
@@ -44,7 +44,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#e97171] text-white px-2 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">-50%</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl mt-[8px] ml-4">Lolito</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Lolito</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Luxury big sofa</p>
                 <div className="flex gap-1 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 7.000.000</h3>
@@ -65,7 +65,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#2ec1ac] text-white px-3 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">New</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl mt-[8px] ml-4">Respira</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Respira</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Outdoor bar table and sofa</p>
                 <div className="flex gap-2 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 500.000</h3>
@@ -89,7 +89,7 @@ export default function ProductSection () {
                 }}>
                   
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl mt-[8px] ml-4">Grifo</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Grifo</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Night Lamp</p>
                 <div className="flex gap-2 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 1.500.000</h3>
@@ -109,7 +109,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#2ec1ac] text-white px-3 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">New</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl mt-[8px] ml-4">Muggo</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Muggo</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Small mug</p>
                
                 <h3 className="text-[#3a3a3a] font-bold text-lg ml-4">Rp 150.000</h3>
@@ -130,7 +130,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#e97171] text-white px-2 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">-50%</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl mt-[8px] ml-4">Pingky</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Pingky</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Cute bed set</p>
                 <div className="flex gap-2 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 7.000.000</h3>
@@ -151,7 +151,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#2ec1ac] text-white px-3 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">New</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl mt-[8px] ml-4">Potty</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-70px] ml-4">Potty</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Minimalist flower pot</p>
                 <div className="flex gap-2 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 500.000</h3>
