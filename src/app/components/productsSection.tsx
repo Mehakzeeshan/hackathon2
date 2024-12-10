@@ -17,7 +17,7 @@ export default function ProductSection () {
                 }}>
                   <span className="rounded-full bg-[#e97171] text-white px-2 py-4 absolute top-5 md:left-[170px] left-36 font-semibold ">-30%</span>
                 </div>
-                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-9px] ml-4">Syltherine</h3> 
+                <h3 className="text-[#3a3a3a] font-bold text-2xl md:mt-[8px] mt-[-16px] ml-4">Syltherine</h3> 
                 <p className="text-[#898989] mt-2  ml-4 font-medium">Stylish cafe chair</p>
                 <div className="flex gap-2 ml-4 mt-2">
                 <h3 className="text-[#3a3a3a] font-bold text-lg">Rp 2.500.000</h3>
