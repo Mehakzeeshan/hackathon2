@@ -67,7 +67,7 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="/wishlist">
             <FaRegHeart />
           </Link>
         </li>
