@@ -18,8 +18,8 @@ export default function Navbar() {
           src="/logo.png"
           alt="Logo"
           width={50}
-          height={30}
-          className="w-10 h-auto"
+          height={50}
+          className="w-12 h-10"
         />
         <h2 className="text-2xl md:text-4xl font-bold">Furniro</h2>
       </div>
